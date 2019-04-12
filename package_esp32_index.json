@@ -5,7 +5,7 @@
       "help": {
         "online": "http://esp32.com"
       }, 
-      "websiteURL": "https://github.com/espressif/esp32-arduino", 
+      "websiteURL": "https://github.com/espressif/arduino-esp32", 
       "platforms": [
 		{
           "category": "ESP32", 
@@ -15,7 +15,7 @@
           "url": "https://raw.githubusercontent.com/DFRobot/FireBeetle-ESP32/master/DFRobot_FireBeetle-ESP32-0.0.6.zip", 
           "checksum": "SHA-256:4890bf15a56697bafa71aa307a946d1518bec3f0d138419d97c12c844c1ffb46",
           "version": "0.0.6", 
-          "architecture": "DFRobot_FireBeetle-ESP32", 
+          "architecture": "esp32", 
           "archiveFileName": "DFRobot_FireBeetle-ESP32-0.0.6.zip", 
           "boards": [
             {
