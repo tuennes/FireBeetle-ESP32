@@ -4,7 +4,7 @@
       "maintainer": "DFRobot DFRDuino", 
       "help": {
         "online": "http://esp32.com"
-      },
+      },{
       "websiteURL": "https://github.com/espressif/arduino-esp32", 
       "platforms": [
 		{
